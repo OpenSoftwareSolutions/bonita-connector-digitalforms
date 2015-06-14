@@ -9,7 +9,7 @@ DigitalForms is based on a modeldriven App-Generation-Framework, that will eccel
 
 # License 
 Apache License V2.0
-For use of DigitalForms (modeldriven App-Generation-Framework) please [Contact Us](info@digireporting.com)
+For use of DigitalForms (modeldriven App-Generation-Framework) please contact info@digireporting.com
 
 # Your Benefits
 * Runs offline, no internet connection required
