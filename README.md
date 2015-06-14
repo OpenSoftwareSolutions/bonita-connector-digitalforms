@@ -1,4 +1,4 @@
-# Digitalforms
+# DigitalForms
 DigitalForms is based on a modeldriven App-Generation-Framework, that will eccelerate the creation of form apps in combination with the workflow engine of BonitaSoft. 
 
 You can now fill out your checklists and forms effectively anywhere and as native form apps - offline processing.
