@@ -1,12 +1,29 @@
 # Digitalforms
+DigitalForms is based on a modeldriven App-Generation-Framework, that will eccelerate the creation of form apps in combination with the workflow engine of BonitaSoft. 
+
 You can now fill out your checklists and forms effectively anywhere and as native form apps - offline processing.
 Almost any kind of native forms, checklists etc. can be generated as native app. The generation and distribution of the native forms are controlled by the BPMN-Engine from BonitaSoft. The forms are designed in a separate form designer and reused in a designed workflow of BonitaSoft.
-Each co-worker can get his checklist or form that he is supposed to fill out and no one else. Everything coordinated by the BPMN-Engine from BonitaSoft.
+Each co-worker can get his checklist or form that he is supposed to fill out and no one else, everything coordinated and dispatched by the BPMN-Engine from BonitaSoft.
+
+DigitalForms is based on a modeldriven App-Generation-Framework, that will eccelerate the creation of creating form apps 
 
 # License 
-
+Apache License V2.0
+For use of DigitalForms (modeldriven App-Generation-Framework) please [Contact Us](info@digireporting.com)
 
 # Your Benefits
+* Runs offline, no internet connection required
+* Collect data anywhere
+* Centralized data management
+* Process monitoring
+* Secure data transmission
+* Centralized data conflict management
+* Workflow integration
+* Extendable to your needs
+* Integration with any 3rd-party system
+* High availability of your data
+* Share and dispatch data between co-workers
+* Very short response time to changes
 
 
 # Use Cases
