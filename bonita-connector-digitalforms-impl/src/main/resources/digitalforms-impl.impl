@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<implementation:connectorImplementation xmlns:implementation="http://www.bonitasoft.org/ns/connector/implementation/6.0">
+  <implementationId>digitalforms-impl</implementationId>
+  <implementationVersion>$implementation.version$</implementationVersion>
+  <definitionId>digitalforms</definitionId>
+  <definitionVersion>$definition.version$</definitionVersion>
+  <implementationClassname>org.oss.digitalforms.MobileFormsImpl</implementationClassname>
+  <description>mobile electronic form application</description>
+
+$Dependencies$
+</implementation:connectorImplementation>

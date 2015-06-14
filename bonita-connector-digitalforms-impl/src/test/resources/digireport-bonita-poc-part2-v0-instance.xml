@@ -1,0 +1,19 @@
+<protocolInstance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" protocolKind="bonita-poc-part2" xsi:noNamespaceSchemaLocation="instance.xsd">
+
+	<valuecontainer domainId="1" name="lead" type="Domain">
+
+	<value name="activityinstanceId" value="" xsi:type="AttributeValue"/>
+
+	<value name="betrag" value="" xsi:type="AttributeValue"/>
+
+	<value name="waehrung" value="" xsi:type="AttributeValue"/>
+
+	<value name="wahrscheinlichkeit" value="" xsi:type="AttributeValue"/>
+
+	<value name="formcompleted" value="" xsi:type="AttributeValue"/>
+
+  	</valuecontainer>
+
+
+
+	</protocolInstance>

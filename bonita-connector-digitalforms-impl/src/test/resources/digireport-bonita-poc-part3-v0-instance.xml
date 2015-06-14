@@ -1,0 +1,27 @@
+<protocolInstance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" protocolKind="bonita-poc-part3" xsi:noNamespaceSchemaLocation="instance.xsd">
+
+	<valuecontainer domainId="1" name="kunde" type="Domain">
+
+	<value name="activityinstanceId" value="" xsi:type="AttributeValue"/>
+
+	<value name="kundentyp" value="" xsi:type="AttributeValue"/>
+
+	<value name="name" value="" xsi:type="AttributeValue"/>
+
+	<value name="vorname" value="" xsi:type="AttributeValue"/>
+
+	<value name="geburtsdatum" value="" xsi:type="AttributeValue"/>
+
+	<value name="buergerort" value="" xsi:type="AttributeValue"/>
+
+	<value name="nationalitaet" value="" xsi:type="AttributeValue"/>
+
+	<value name="passnummer" value="" xsi:type="AttributeValue"/>
+
+    <value name="formcompleted" value="" xsi:type="AttributeValue"/>
+
+  	</valuecontainer>
+
+
+
+	</protocolInstance>

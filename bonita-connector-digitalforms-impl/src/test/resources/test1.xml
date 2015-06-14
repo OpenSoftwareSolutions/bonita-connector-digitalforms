@@ -1,0 +1,13 @@
+<protocolInstance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" protocolKind="bonita-poc-part1" xsi:noNamespaceSchemaLocation="instance.xsd">
+	<valuecontainer>
+		<bonitaprocessId>dfsfdsfdsfd</bonitaprocessId>
+		<quelle>text</quelle>
+		<name>Karlsson</name>
+		<vorname>Magnus</vorname>
+		<strasse>Bautacherweg</strasse>
+		<nummer>3</nummer>
+		<ort>Binz</ort>
+		<plz>8122</plz>
+		<land>Schweiz</land>
+  	</valuecontainer>
+</protocolInstance>

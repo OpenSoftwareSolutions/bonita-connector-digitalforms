@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition:ConnectorDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:definition="http://www.bonitasoft.org/ns/connector/definition/6.1">
+  <id>digitalforms</id>
+  <version>$definition.version$</version>
+  <icon>digitalforms.png</icon>
+  <category id="forms" icon="application_form.png" />
+  <input defaultValue="ftp.digireport.ch" mandatory="true" name="ftpHost" type="java.lang.String"/>
+  <input mandatory="true" name="user" type="java.lang.String"/>
+  <input mandatory="true" name="password" type="java.lang.String"/>
+  <input mandatory="true" name="formName" type="java.lang.String"/>
+  <input name="parameters" type="java.util.List"/>
+  <page id="FtpConfiguration">
+    <widget xsi:type="definition:Text" id="ftpHost" inputName="ftpHost"/>
+    <widget xsi:type="definition:Text" id="user" inputName="user"/>
+    <widget xsi:type="definition:Text" id="password" inputName="password"/>
+  </page>
+  <page id="FormSettings">
+    <widget xsi:type="definition:Text" id="formName" inputName="formName" showDocuments="true"/>
+    <widget xsi:type="definition:Array" id="parameters" inputName="parameters" cols="2" rows="-1" fixedCols="true" fixedRows="false">
+      <colsCaption>name</colsCaption>
+      <colsCaption>value</colsCaption>
+    </widget>
+  </page>
+</definition:ConnectorDefinition>
