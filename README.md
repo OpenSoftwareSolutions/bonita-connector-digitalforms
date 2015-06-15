@@ -5,6 +5,9 @@ You can now fill out your checklists and forms effectively anywhere and as nativ
 Almost any kind of native forms, checklists etc. can be generated as native app. The generation and distribution of the native forms are controlled by the BPMN-Engine from BonitaSoft. The forms are designed in a separate form designer and reused in a designed workflow of BonitaSoft.
 Each co-worker can get his checklist or form that he is supposed to fill out and no one else, everything coordinated and dispatched by the BPMN-Engine from BonitaSoft.
 
+# Tutorial
+[See the Tutorial on howto integrate DigitalForms with Bonita](https://github.com/OpenSoftwareSolutions/bonita-connector-digitalforms/wiki/Integration-DigitalForms-with-BonitaSoft)
+
 # License 
 Apache License V2.0
 For use of DigitalForms (modeldriven App-Generation-Framework) please contact info@digireporting.com
