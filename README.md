@@ -1,9 +1,7 @@
 # DigitalForms
 DigitalForms is based on a modeldriven App-Generation-Framework, that will eccelerate the creation of form apps in combination with the workflow engine of BonitaSoft. 
 
-You can now fill out your checklists and forms effectively anywhere and as native form apps - offline processing.
-Almost any kind of native forms, checklists etc. can be generated as native app. The generation and distribution of the native forms are controlled by the BPMN-Engine from BonitaSoft. The forms are designed in a separate form designer and reused in a designed workflow of BonitaSoft.
-Each co-worker can get his checklist or form that he is supposed to fill out and no one else, everything coordinated and dispatched by the BPMN-Engine from BonitaSoft.
+DigitalForms is based on a model driven App-Generation-Framework, that will accelerate the creation of native form apps in combination with the bonita workflow engine. You can now fill out your checklists and forms effectively anywhere and as native form app - offline processing is no longer an issue. Almost any kind of native forms, checklists etc. can be generated. The generation and distribution of the native forms are controlled by the Bonita BPMN-Engine. The forms are designed in a separate form designer and reused in your designed bonita workflow. Each co-worker can get his checklist or form that he is supposed to fill out and no one else.
 
 # Tutorial
 [See the Tutorial on howto integrate DigitalForms with Bonita](https://github.com/OpenSoftwareSolutions/bonita-connector-digitalforms/wiki/Integration-DigitalForms-with-BonitaSoft)
