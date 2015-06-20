@@ -197,7 +197,8 @@ public class MobileFormsImpl extends AbstractConnector {
 									String activityInstanceId) throws Exception {
 		FormTemplateFiller filler = new FormTemplateFiller(new ByteArrayInputStream(templateContent));
 		formFillingParameters.put("activityInstanceId", activityInstanceId);
-		formFillingParameters.put("formCompleted", "true"); // hack to run without ipad
+		// If formCompleted is set to true, the example can run without interaction from an iPad.
+		// formFillingParameters.put("formCompleted", "true");
 		LOGGER.info("formFillingParameters : " + formFillingParameters);
 		filler.fillTemplate(formFillingParameters);
 		LOGGER.info("new Parameters in the form for the tablet: " + filler.getDocumentAsXml());
